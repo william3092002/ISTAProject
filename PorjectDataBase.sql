@@ -59,8 +59,7 @@ create table dbo.projects(
 	projectName varchar(100),
 	projectDescription varchar (MAX),
 	projectBegin date,
-	projectDueDate date,
-	projPriority varchar(50),
+	projectDueDate date,	
 	projectStatus varchar(50),
 	projectComplete date,
 	tLeaderID int,
@@ -81,33 +80,7 @@ go
 
 	select * from projects
 
-	drop table if exists features;
-go
-
-create table dbo.features(
-	featureID varchar(10), 
-	featureName varchar(100),
-	featureDescription varchar(Max),
-	fBegin date,
-	fDueDate date,
-	fComplete date,
-	fStatus varchar(50),
-	projectID varchar(10),
-	CONSTRAINT feature_PK PRIMARY KEY(featureID) 
-	);
-	go
-
-	BULK INSERT dbo.features FROM 'D:\quantico06\ISTA_Project\features.csv'
- WITH
- (
- format = 'csv',
- firstrow = 2,
- DATAFILETYPE = 'char' ,
- FIELDTERMINATOR = ',',
- ROWTERMINATOR = '\n'
- );
-go
-select * from features
+	
 
 drop table if exists tasks;
 go
@@ -121,7 +94,7 @@ go
 	tDue date,
 	tcomplete date,
 	projectID varchar(10),
-	featureID varchar(10),
+	phaseName varchar(50),
 	memberID int,
 	CONSTRAINT task_PK PRIMARY KEY(taskID) 
 	);
