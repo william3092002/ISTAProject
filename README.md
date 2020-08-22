@@ -1,2 +1,2 @@
 # ISTAProject
-This is my bug tracker project for Microsoft Soft and Systems Academy. 
+This is my bug tracker project for Microsoft Software and Systems Academy. 
