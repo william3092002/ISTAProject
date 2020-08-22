@@ -26,8 +26,9 @@
 1. The user will select a Project Manager from the list he/she wish to assign this project to.
 1. The user will input description of the project. 
 1. The user will hit the submit bottun to create the project.
-1. The system will record the date and time this project is submitted.
 1. The system will generate a unique project ID.
+1. The system will record the date and time this project is submitted.
+1. The system will tie the user ID and user name to this project ID.
 1. The system will assign the project to the selected Project Manager.
 
 
