@@ -13,7 +13,7 @@
 * The user wants to create a project.
 
 **Preconditions:**
-* The user is registered to the system and has a userID.
+* The user is registered to the system and has an userID.
 * There is at least one project manager in the system.
 
 **Post-conditions:**
@@ -24,7 +24,7 @@
 **Normal Flow:**
 1. The user will navigate to the Project page. 
 1. The user will enter the Project title.
-1. The user will select a Project Manager from the list he/she wish to assign this project to.
+1. The user will select a Project Manager from the list he/she wishes to assign this project to.
 1. The user will input description of the project. 
 1. The user will hit the submit bottun to create the project.
 1. The system will generate a unique project ID.
