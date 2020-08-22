@@ -13,7 +13,8 @@
 * The user wants to create a project.
 
 **Preconditions:**
-* The user is registered to the system.
+* The user is registered to the system and has a userID.
+* There is at least one project manager in the system.
 
 **Post-conditions:**
 * The project is created with a distinct project ID. 
