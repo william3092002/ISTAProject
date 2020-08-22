@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Form that allow user to submit data to "Project" table</title>
+		<meta name='author' content='William Chan' />
+		<meta name='table' content='This is my first web page.' />
+		<script>
+			<!--no script type yet -->
+		</script>
+		<style>
+			<!--no style yet -->
+		</style>
+
+	</head>
+
+	<body>
+		<h1>Project</h1>
+		Project Title  <input type="text" name="projectTitle" id="projectTitle" value="">  
+		<hr>
+
+		Project assigned to
+		<select id="ProjectManager" name="ProjectManager">
+				<option value="ProjectManagerID">PM 001</option>
+				<option value="ProjectManagerID">PM 002</option>
+				<option value="ProjectManagerID">PM 007</option>
+		</select>
+		
+		<hr>
+		
+		Project Description:<br>  
+		<textarea rows="5" cols="90" id="description" name="description"></textarea><br>
+
+		<input type="submit" name="submit" id="submit" value="submit">
+
+			<input type="reset" name="reset" id="reset" value="reset form">
+	</body>
+</html>

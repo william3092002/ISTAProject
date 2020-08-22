@@ -90,6 +90,7 @@ go
 	taskName varchar(100),
 	tDescription varchar(Max),
 	tStatus varchar(50),
+	tRequired int,
 	tBegin date,
 	tDue date,
 	tcomplete date,

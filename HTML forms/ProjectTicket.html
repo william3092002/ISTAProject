@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ticket</title>
+	<meta name='author' content='William Chan' />
+		<meta name='table' content='Tasks' />
+		<script>
+			<!--no script type yet -->
+		</script>
+		<style>
+			<!--no style yet -->
+		</style>
+</head>
+<body>
+	<h1>Ticket</h1>
+	Title  <input type="text" name="Title" id="Title" value="">
+
+
+	<hr>
+	Project
+	<select id="projectID" name="projectID">
+		<option value="Project1">Bug Tracker Project</option>
+		<option value="Project2">Profolio Project</option>
+		<option value="Project3">Project3</option>
+		
+	</select>
+
+
+	<hr>
+	Ticket Priority
+	<select id="Priority" name="Priority">
+		<option value="None">None</option>
+		<option value="High">High</option>
+		<option value="Medium">Medium</option>
+		<option value="Low">Low</option>
+	</select>
+
+	Ticket Status 
+	<select id="status" name="status">
+		<option value="New">New</option>
+		<option value="Open">Open</option>
+		<option value="In Progress">In Progress</option>
+		<option value="Resolved">Resolved</option>
+		
+	</select>
+	<hr>
+
+	Type of Ticket  
+	<select id="Type of Ticket" name="Type of Ticket">
+		<option value="001">Feature Request</option>
+		<option value="002">Bugs/error</option>
+		<option value="003">Other Comments</option>
+
+	</select>
+	<hr>
+
+	Ticket Description:<br>  
+	<textarea rows="5" cols="90" id="description" name="description"></textarea>
+	<br>	
+
+	<input type="submit" name="submit" id="submit" value="submit">
+
+	<input type="reset" name="reset" id="reset" value="reset form">
+	
+
+</body>
+</html>
