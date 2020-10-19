@@ -1,0 +1,84 @@
+﻿@model TicketListViewModel
+
+<form asp-action="Create" method="post" class="form-control-lg" role="form">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="ticket.Name" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <input asp-for="ticket.Name" class="form-control" />
+            <span asp-validation-for="ticket.Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ticket.ProjectId" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <select class="form-control" asp-for="ticket.ProjectId">
+                @foreach (var item in Model.Projects)
+                {
+                    <option>@item.ProjectId</option>
+                }
+            </select>
+            <span asp-validation-for="ticket.ProjectId" class="text-danger"></span>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="ticket.Type" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <select class="form-control" asp-for="ticket.Type">
+                <option>Bug</option>
+                <option>Feature</option>
+            </select>
+            <span asp-validation-for="ticket.Type" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ticket.Priority" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <select class="form-control" asp-for="ticket.Priority">
+                <option>High</option>
+                <option>Medium</option>
+                <option>Low</option>
+            </select>
+            <span asp-validation-for="ticket.Priority" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ticket.Status" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <select class="form-control" asp-for="ticket.Status">
+                <option>Open</option>
+                <option>In Work</option>
+                <option>Complete</option>
+            </select>
+            <span asp-validation-for="ticket.Status" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ticket.Description" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <textarea class="form-control" asp-for="ticket.Description" rows="5" cols="50"></textarea>
+            <span asp-validation-for="ticket.Description" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-5">
+            <a asp-controller="Project" asp-action="Projects" class="btn btn-danger">Cancel</a>
+            <input type="submit" class="btn btn-primary" value="Create Ticket" />
+        </div>
+    </div>
+</form>
+
+
+
+
+
+

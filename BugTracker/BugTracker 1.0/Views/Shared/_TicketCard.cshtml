@@ -1,0 +1,16 @@
+﻿@model Ticket
+
+
+<div class="card bg-secondary text-white m-md-3">
+    <div class="card-header alert-dark text-black-50">
+        @Model.Type
+    </div>
+    <div class="card-body">
+        <h5 class="card-title font-weight-bolder">@Model.Name</h5>
+        <p class="card-text text-uppercase">@Model.Priority</p>
+        <a asp-controller="Ticket" asp-action="TicketDetail" asp-route-id="@Model.TicketId" class="btn btn-info float-right m-1">Detail</a>
+
+        @*<a asp-controller="Ticket" asp-action="TicketsByProject" asp-route-id="@Model.ProjectId" class="btn btn-primary float-right m-1">View Tickets</a>*@
+    </div>
+</div>
+

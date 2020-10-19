@@ -1,0 +1,52 @@
+﻿@model Project
+
+<form asp-action="Create" method="post" class="form-control-lg" role="form">
+
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+
+    <div class="form-group">
+        <label asp-for="ProjectName" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <input asp-for="ProjectName" class="form-control" />
+            <span asp-validation-for="ProjectName" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Status" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <select class="form-control" asp-for="Status">
+                <option>Open</option>
+                <option>In Work</option>
+                <option>Complete</option>
+            </select>
+            <span asp-validation-for="Status" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ProjectManager" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <input asp-for="ProjectManager" class="form-control" />
+            <span asp-validation-for="ProjectManager" class="text-danger"></span>
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="Description" class="col-md-2 control-label text-black"></label>
+        <div class="col-md-5">
+            <textarea class="form-control" asp-for="Description" rows="5" cols="50"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-5">
+            <a asp-controller="Project" asp-action="Projects" class="btn btn-danger">Cancel</a>
+            <input type="submit" class="btn btn-primary" value="Create Project" />
+        </div>
+    </div>
+</form>

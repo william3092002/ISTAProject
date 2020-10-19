@@ -1,0 +1,18 @@
+﻿@model ProjectViewModel
+
+
+<div class="display-4 text-black-50">Projects</div>
+<div class="row">
+    @foreach (var project in Model.Projects)
+    {
+        <div class="col-sm-4">
+            <partial name="_ProjectCard" model="project" />
+        </div>
+    }
+
+</div>
+<div class="mr-md-3">
+    <a asp-controller="Project" asp-action="Create" class="btn btn-success float-md-right col-3">Create New Project</a>
+</div>
+
+

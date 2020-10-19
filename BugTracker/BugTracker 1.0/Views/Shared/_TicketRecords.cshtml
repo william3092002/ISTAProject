@@ -1,0 +1,13 @@
+﻿@model IEnumerable<TicketRecord>
+
+@foreach (var record in Model)
+{
+    <table class="table table-sm table-bordered table-secondary text-black">
+        <tbody>
+            <tr><th>Updated</th><td>@record.TicketUpdatedTime</td></tr>
+            <tr><th>Status</th><td>@record.Status</td></tr>
+            <tr><th>Priority</th><td>@record.Priority</td></tr>
+            <tr><th>Description</th><td>@record.TicketDescription</td></tr>
+        </tbody>
+    </table>
+}

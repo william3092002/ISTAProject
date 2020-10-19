@@ -1,0 +1,72 @@
+﻿@model TicketListViewModel
+
+
+
+
+<div class="row ">
+    <div class="col-md-11 display-4">
+        Tickets
+            <form asp-controller="Ticket" asp-action="List" class="d-none d-md-inline-block form-inline mt-md-4 float-right">
+                <div class="input-group ">
+                    <input class="form-control float-right" type="text" placeholder="Search for..." aria-label="Search" aria-describedby="basic-addon2" name="searchString"/>
+                    <div class="input-group-append">
+                        <input class="btn btn-primary" type="submit" value="Search">
+                    </div>
+                </div>
+            </form>
+        
+    </div>
+
+</div>
+    
+    
+
+
+<div class="row">
+    <div class="col-md-11">
+        <table class="table table-bordered table-dark m-md-3">
+            <thead>
+                <tr class="alert-dark">
+                    <th scope="col">Project</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Type</th>
+                    <th scope="col">Priority</th>
+                    <th scope="col">Status</th>
+
+                    <th>
+                    </th>
+                    <th></th>
+
+
+                </tr>
+            </thead>
+            @foreach (var item in Model.Tickets)
+            {
+                <tbody>
+                    <tr>
+                        <td>@item.Project.ProjectName</td>
+                        <td>@item.Name</td>
+                        <td>@item.Type</td>
+                        <td>@item.Priority</td>
+                        <td>@item.Status</td>
+                        <td><a asp-controller="Ticket" asp-action="Edit" asp-route-id="@item.TicketId" class="btn btn-primary">Update</a></td>
+                        <td><a asp-controller="Ticket" asp-action="Delete" asp-route-id="@item.TicketId" class="btn btn-danger">Delete</a></td>
+
+
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+   
+    <div class="col-md-1"></div>
+
+</div>
+<div class="m-md-3">
+    <a asp-controller="Ticket" asp-action="Create" class="btn btn-success float-md-left col-2">Create</a>
+</div>
+
+
+
+
+

@@ -1,0 +1,318 @@
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.exe
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.deps.json
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.runtimeconfig.json
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.runtimeconfig.dev.json
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.pdb
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.AssemblyInfo.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.RazorTargetAssemblyInfo.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\staticwebassets\BugTracker.StaticWebAssets.Manifest.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\staticwebassets\BugTracker.StaticWebAssets.xml
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.dll
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.pdb
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.genruntimeconfig.cache
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.Views.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.Views.pdb
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.RazorAssemblyInfo.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.RazorAssemblyInfo.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.TagHelpers.input.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.TagHelpers.output.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.RazorCoreGenerate.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.RazorTargetAssemblyInfo.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.Views.pdb
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.csproj.CopyComplete
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\List.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\TicketsByProject.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Project\Projects.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\Create.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectCard.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\Edit.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketCard.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetail.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\TicketDetail.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectDetail.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketDetail.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OpenTickets.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CompleteTickets.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetailComplete.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetailAll.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AllTickets.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketRecords.cshtml.g.cs
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\BugTracker.StaticWebAssets.xml
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\willi\source\repos\BugTracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\willi\source\repos\BugTracker\obj\Debug\netcoreapp3.1\BugTracker.MvcApplicationPartsAssemblyInfo.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\appsettings.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\libman.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.StaticWebAssets.xml
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.exe
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.deps.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.runtimeconfig.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.runtimeconfig.dev.json
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.pdb
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.Views.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.Views.pdb
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.csprojAssemblyReference.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.AssemblyInfoInputs.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.AssemblyInfo.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.MvcApplicationPartsAssemblyInfo.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.MvcApplicationPartsAssemblyInfo.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorAssemblyInfo.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorAssemblyInfo.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.TagHelpers.input.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.TagHelpers.output.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorCoreGenerate.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetail.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetailAll.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetailComplete.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\Projects.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AllTickets.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CompleteTickets.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OpenTickets.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectCard.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectDetail.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketCard.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketDetail.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketRecords.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\Create.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\Edit.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\List.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\TicketDetail.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\TicketsByProject.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorTargetAssemblyInfo.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorTargetAssemblyInfo.cs
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.Views.pdb
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.csproj.CopyComplete
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\staticwebassets\BugTracker.StaticWebAssets.Manifest.cache
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\staticwebassets\BugTracker.StaticWebAssets.xml
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.dll
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.pdb
+D:\quantico06\ISTA_Project\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.genruntimeconfig.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\appsettings.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\libman.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.StaticWebAssets.xml
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.exe
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.deps.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.runtimeconfig.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.runtimeconfig.dev.json
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.pdb
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.Views.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\BugTracker.Views.pdb
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.csprojAssemblyReference.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.AssemblyInfoInputs.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.AssemblyInfo.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.csproj.CoreCompileInputs.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.MvcApplicationPartsAssemblyInfo.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.MvcApplicationPartsAssemblyInfo.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorAssemblyInfo.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorAssemblyInfo.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.TagHelpers.input.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.TagHelpers.output.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorCoreGenerate.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\Create.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\Edit.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetail.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetailAll.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\ProjectDetailComplete.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Project\Projects.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AllTickets.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CompleteTickets.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OpenTickets.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectCard.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProjectDetail.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketCard.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketDetail.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TicketRecords.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\Create.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\Edit.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\List.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\TicketDetail.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\Ticket\TicketsByProject.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorTargetAssemblyInfo.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.RazorTargetAssemblyInfo.cs
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.Views.pdb
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.csproj.CopyComplete
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\staticwebassets\BugTracker.StaticWebAssets.Manifest.cache
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\staticwebassets\BugTracker.StaticWebAssets.xml
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.dll
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.pdb
+D:\gitFinal\ISTAProject\BugTracker\BugTracker 1.0\obj\Debug\netcoreapp3.1\BugTracker.genruntimeconfig.cache

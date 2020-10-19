@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Ticket>
+
+@*@foreach (var item in Model)
+    {
+        <h3>Name: @item.Name</h3>
+        <h4>Project Id: @item.ProjectId</h4>
+        <h4>Type: @item.Type</h4>
+        <h4>Prioroity: @item.Priority</h4>
+        <h4>Status: @item.Status</h4>
+        <h4>Description: @item.Description</h4>
+        <hr />
+    }*@
+<div class="row">
+    <div class="col-md-11">
+        <table class="table table-bordered table-dark m-md-5">
+            <thead>
+                <tr>
+                    <th scope="col">Name</th>
+                    <th scope="col">Type</th>
+                    <th scope="col">Priority</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Description</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tbody>
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Type</td>
+                        <td>@item.Priority</td>
+                        <td>@item.Status</td>
+                        <td>@item.Description</td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+    </div>
+</div>

@@ -1,0 +1,20 @@
+﻿
+@model DetailViewModel
+
+    <div><partial name="_ProjectDetail" model="Model.projet" /></div>
+    <h3 class="bg-secondary text-white text-center p-1">Complete Tickets</h3>
+
+    <div class="dropdown">
+        <button class="btn btn-info dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Status
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" asp-controller="Project" asp-action="ProjectDetail" asp-route-id="@Model.projet.ProjectId">Open</a>
+            <a class="dropdown-item" asp-controller="Project" asp-action="ProjectDetailComplete" asp-route-id="@Model.projet.ProjectId">Complete</a>
+            <a class="dropdown-item" asp-controller="Project" asp-action="ProjectDetailAll" asp-route-id="@Model.projet.ProjectId">All</a>
+        </div>
+    </div>
+    <partial name="_CompleteTickets" model="Model" />
+    <div class="mr-md-3">
+        <a asp-controller="Ticket" asp-action="Create" class=" btn btn-success float-md-right col-3">Create New Ticket</a>
+    </div>
